@@ -1,0 +1,21 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.6.2",
+    "needle": "^2.3.0",
+    "request": "^2.88.2"
+  },
+  "resolutions": {
+    "needle": "2.3.0"
+  }
+}
