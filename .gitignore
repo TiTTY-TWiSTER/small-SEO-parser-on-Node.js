@@ -37,6 +37,11 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+for_export_datas/
+imgs_rename/
+osmosis_parser/
+results_parsers/
+vk_parser/
 
 # TypeScript v1 declaration files
 typings/
